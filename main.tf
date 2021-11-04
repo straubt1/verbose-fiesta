@@ -1,6 +1,6 @@
 data "tfe_outputs" "source" {
   organization = "terraform-tom"
-  workspace    = "ws-source"
+  workspace    = "ws-source-2"
 }
 
 output "debug" {
